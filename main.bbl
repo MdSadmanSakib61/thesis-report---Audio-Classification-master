@@ -1,0 +1,722 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{8}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=a8f306f3d956158418ad4d06db85e6b5}{%
+           family={Şaşmaz},
+           familyi={Ş\bibinitperiod},
+           given={Emre},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5cdfe66b9da2b680f8d40978cf541494}{%
+           family={Tek},
+           familyi={T\bibinitperiod},
+           given={F\bibnamedelima Boray},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{97afbe41c0ea3e416a59c24e346c7565}
+      \strng{fullhash}{97afbe41c0ea3e416a59c24e346c7565}
+      \strng{bibnamehash}{97afbe41c0ea3e416a59c24e346c7565}
+      \strng{authorbibnamehash}{97afbe41c0ea3e416a59c24e346c7565}
+      \strng{authornamehash}{97afbe41c0ea3e416a59c24e346c7565}
+      \strng{authorfullhash}{97afbe41c0ea3e416a59c24e346c7565}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 3rd International Conference on Computer Science and Engineering (UBMK)}
+      \field{title}{Animal sound classification using a convolutional neural network}
+      \field{year}{2018}
+      \field{pages}{625\bibrangedash 629}
+      \range{pages}{5}
+    \endentry
+    \entry{2}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=5273a7d424da234bdc94a77e1ea5b44b}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Kun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3d326777e85aa223e8bcb79db34b8722}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Zhao},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=94b424d7e8f40906964c733290877c0f}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Fengquan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ac728bdf9fb081b5c8d5e9a2ef589dbb}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Wen-Hsing},
+           giveni={W\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=08faf7f14620768f0df5377488f8f73b}{%
+           family={Schuller},
+           familyi={S\bibinitperiod},
+           given={Björn\bibnamedelima W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=eab272f827af51d8e2d272cc3dbf5e13}{%
+           family={Yamamoto},
+           familyi={Y\bibinitperiod},
+           given={Yoshiharu},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{baf76576345dccb98678444bfdcfa6c1}
+      \strng{fullhash}{17792dad632cff0013d4972c0a485b00}
+      \strng{bibnamehash}{17792dad632cff0013d4972c0a485b00}
+      \strng{authorbibnamehash}{17792dad632cff0013d4972c0a485b00}
+      \strng{authornamehash}{baf76576345dccb98678444bfdcfa6c1}
+      \strng{authorfullhash}{17792dad632cff0013d4972c0a485b00}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)}
+      \field{title}{Deep Wavelets for Heart Sound Classification}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1109/ISPACS48206.2019.8986277
+      \endverb
+    \endentry
+    \entry{1}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=3f80da83c281b07d13789071f70a4a87}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Joy\bibnamedelima Krishan},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=38462187022c018d3f6a8e085515690f}{%
+           family={Ghosh},
+           familyi={G\bibinitperiod},
+           given={Arka},
+           giveni={A\bibinitperiod}}}%
+        {{hash=657081127734cf8250e8b30d36e64159}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Abhijit\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4f282fa775363ed9eb452eceab3471e5}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=80e770065899c6b66f24f036846e47a8}{%
+           family={Chakrabarty},
+           familyi={C\bibinitperiod},
+           given={Amitabha},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{33db6bcbbebeb0d697cd35144198cd21}
+      \strng{fullhash}{539f21aeaf44d8c441e6679868ef39f2}
+      \strng{bibnamehash}{539f21aeaf44d8c441e6679868ef39f2}
+      \strng{authorbibnamehash}{539f21aeaf44d8c441e6679868ef39f2}
+      \strng{authornamehash}{33db6bcbbebeb0d697cd35144198cd21}
+      \strng{authorfullhash}{539f21aeaf44d8c441e6679868ef39f2}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 Fourth International Conference On Intelligent Computing in Data Sciences (ICDS)}
+      \field{title}{Urban Sound Classification Using Convolutional Neural Network and Long Short Term Memory Based on Multiple Features}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/ICDS50568.2020.9268723
+      \endverb
+    \endentry
+    \entry{9}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=3f80da83c281b07d13789071f70a4a87}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Joy\bibnamedelima Krishan},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=38462187022c018d3f6a8e085515690f}{%
+           family={Ghosh},
+           familyi={G\bibinitperiod},
+           given={Arka},
+           giveni={A\bibinitperiod}}}%
+        {{hash=657081127734cf8250e8b30d36e64159}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Abhijit\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4f282fa775363ed9eb452eceab3471e5}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=80e770065899c6b66f24f036846e47a8}{%
+           family={Chakrabarty},
+           familyi={C\bibinitperiod},
+           given={Amitabha},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{33db6bcbbebeb0d697cd35144198cd21}
+      \strng{fullhash}{539f21aeaf44d8c441e6679868ef39f2}
+      \strng{bibnamehash}{539f21aeaf44d8c441e6679868ef39f2}
+      \strng{authorbibnamehash}{539f21aeaf44d8c441e6679868ef39f2}
+      \strng{authornamehash}{33db6bcbbebeb0d697cd35144198cd21}
+      \strng{authorfullhash}{539f21aeaf44d8c441e6679868ef39f2}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 Fourth International Conference On Intelligent Computing in Data Sciences (ICDS)}
+      \field{title}{Urban sound classification using convolutional neural network and long short term memory based on multiple features}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{5}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4594c8ef141d08692e0d241680571e73}{%
+           family={Ashikuzzaman},
+           familyi={A\bibinitperiod},
+           given={Md},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5cedcb5397b75fc5ae54452ca87dffa4}{%
+           family={Fime},
+           familyi={F\bibinitperiod},
+           given={Awal\bibnamedelima Ahmed},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3b83ee3bfba541429b8528558f31b837}{%
+           family={Aziz},
+           familyi={A\bibinitperiod},
+           given={Abdul},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f9f32c85985622af8d3eafeba271bb6f}{%
+           family={Tasnima},
+           familyi={T\bibinitperiod},
+           given={Tanvira},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{aee6cb60221b7024e29da15648a12404}
+      \strng{fullhash}{591ca93bb18d556f08ebe1e458416867}
+      \strng{bibnamehash}{591ca93bb18d556f08ebe1e458416867}
+      \strng{authorbibnamehash}{591ca93bb18d556f08ebe1e458416867}
+      \strng{authornamehash}{aee6cb60221b7024e29da15648a12404}
+      \strng{authorfullhash}{591ca93bb18d556f08ebe1e458416867}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 5th International Conference on Electrical Information and Communication Technology (EICT)}
+      \field{title}{Danger Detection for Women and Child Using Audio Classification and Deep Learning}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/EICT54103.2021.9733601
+      \endverb
+    \endentry
+    \entry{3}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=e2ca7fe8f0babf8ac29d3ff920a7a909}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Baljinder},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b697b52436d617daaf96bf68a8cb241c}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Jaskirat},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{05e8bf2b9029ff182c902be920e3226d}
+      \strng{fullhash}{05e8bf2b9029ff182c902be920e3226d}
+      \strng{bibnamehash}{05e8bf2b9029ff182c902be920e3226d}
+      \strng{authorbibnamehash}{05e8bf2b9029ff182c902be920e3226d}
+      \strng{authornamehash}{05e8bf2b9029ff182c902be920e3226d}
+      \strng{authorfullhash}{05e8bf2b9029ff182c902be920e3226d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{note}{working paper or preprint}
+      \field{title}{Audio Classification: Environmental sounds classification}
+      \field{year}{2021}
+      \verb{file}
+      \verb https://hal.archives-ouvertes.fr/hal-03501143/file/Audio_Classification%20%281%29.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.archives-ouvertes.fr/hal-03501143
+      \endverb
+      \verb{url}
+      \verb https://hal.archives-ouvertes.fr/hal-03501143
+      \endverb
+      \keyw{Audio Classification ; Environmental sounds classification ; Urban sounds Dataset ; Speaker Diarization ; CNN ; SincNet ; Deep Learning}
+    \endentry
+    \entry{16}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=94ac301387c386fc370849855ae113e4}{%
+           family={Meghanani},
+           familyi={M\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=784a9d88684f32bae1c19bb0bb02e47f}{%
+           family={Anoop},
+           familyi={A\bibinitperiod},
+           given={CS},
+           giveni={C\bibinitperiod}}}%
+        {{hash=df12d94401fcd41e8f6a38d082803897}{%
+           family={Ramakrishnan},
+           familyi={R\bibinitperiod},
+           given={AG},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c8408364d3e6d42f0774e639e63bb95c}
+      \strng{fullhash}{c8408364d3e6d42f0774e639e63bb95c}
+      \strng{bibnamehash}{c8408364d3e6d42f0774e639e63bb95c}
+      \strng{authorbibnamehash}{c8408364d3e6d42f0774e639e63bb95c}
+      \strng{authornamehash}{c8408364d3e6d42f0774e639e63bb95c}
+      \strng{authorfullhash}{c8408364d3e6d42f0774e639e63bb95c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE Spoken Language Technology Workshop (SLT)}
+      \field{title}{An exploration of log-mel spectrogram and MFCC features for Alzheimer’s dementia recognition from spontaneous speech}
+      \field{year}{2021}
+      \field{pages}{670\bibrangedash 677}
+      \range{pages}{8}
+    \endentry
+    \entry{7}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3f3a95a477565198275a3f9e73493341}{%
+           family={Scarpiniti},
+           familyi={S\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f1b7abf6e8e2dd74f46719c3cf64bdc3}{%
+           family={Colasante},
+           familyi={C\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=62f546c332634cedc15eb8aa1499ff19}{%
+           family={Di\bibnamedelima Tanna},
+           familyi={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+        {{hash=819ab04344bbb8dd912fd3d8cb00ffaf}{%
+           family={Ciancia},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=762c74c6390f0ae19e02f0a712974678}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Yong-Cheol},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=dcdff5da94f3aee15e9a335aacb89e63}{%
+           family={Uncini},
+           familyi={U\bibinitperiod},
+           given={Aurelio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{41da0471cf7dac20965fc7bba4465960}
+      \strng{fullhash}{c1a05fea1c94e3e41ac73590baee985a}
+      \strng{bibnamehash}{c1a05fea1c94e3e41ac73590baee985a}
+      \strng{authorbibnamehash}{c1a05fea1c94e3e41ac73590baee985a}
+      \strng{authornamehash}{41da0471cf7dac20965fc7bba4465960}
+      \strng{authorfullhash}{c1a05fea1c94e3e41ac73590baee985a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{title}{Deep Belief Network based audio classification for construction sites monitoring}
+      \field{volume}{177}
+      \field{year}{2021}
+      \field{pages}{114839}
+      \range{pages}{1}
+    \endentry
+    \entry{6}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=27af96eed5ca2247d379a9b5153039cc}{%
+           family={Teh},
+           familyi={T\bibinitperiod},
+           given={Kah\bibnamedelima Kuan},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=fc31ad3cbba0eee9b29032894611de63}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Huy\bibnamedelima Dat},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c94430adb64e35d5daa61cc6d62d8cb7}
+      \strng{fullhash}{c94430adb64e35d5daa61cc6d62d8cb7}
+      \strng{bibnamehash}{c94430adb64e35d5daa61cc6d62d8cb7}
+      \strng{authorbibnamehash}{c94430adb64e35d5daa61cc6d62d8cb7}
+      \strng{authornamehash}{c94430adb64e35d5daa61cc6d62d8cb7}
+      \strng{authorfullhash}{c94430adb64e35d5daa61cc6d62d8cb7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Interspeech}
+      \field{title}{Open-Set Audio Classification with Limited Training Resources Based on Augmentation Enhanced Variational Auto-Encoder GAN with Detection-Classification Joint Training.}
+      \field{year}{2021}
+      \field{pages}{4169\bibrangedash 4173}
+      \range{pages}{5}
+    \endentry
+    \entry{4}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fcb3b6210feb84270b690cbe2d7c3590}{%
+           family={Banuroopa},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=873ef7b2a63d86b36e23a48c12331996}{%
+           family={Shanmuga\bibnamedelima Priyaa},
+           familyi={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Semnan University}%
+      }
+      \strng{namehash}{e9d685d2bae044c30d6e3015e4e1aba8}
+      \strng{fullhash}{e9d685d2bae044c30d6e3015e4e1aba8}
+      \strng{bibnamehash}{e9d685d2bae044c30d6e3015e4e1aba8}
+      \strng{authorbibnamehash}{e9d685d2bae044c30d6e3015e4e1aba8}
+      \strng{authornamehash}{e9d685d2bae044c30d6e3015e4e1aba8}
+      \strng{authorfullhash}{e9d685d2bae044c30d6e3015e4e1aba8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, a novel audio finger methodology for audio classification is proposed. The fingerprint of the audio signal is a unique digest to identify the signal. The proposed model uses the audio fingerprinting methodology to create a unique fingerprint of the audio files. The fingerprints are created by extracting an MFCC spectrum and then taking a mean of the spectra and converting the spectrum into a binary image. These images are then fed to the LSTM network to classify the environmental sounds stored in UrbanSound8K dataset and it produces an accuracy of 98.8\% of accuracy across all 10 folds of the dataset.}
+      \field{issn}{2008-6822}
+      \field{journaltitle}{International Journal of Nonlinear Analysis and Applications}
+      \field{number}{Special Issue}
+      \field{title}{MFCC based hybrid fingerprinting method for audio classification through LSTM}
+      \field{volume}{12}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{2125\bibrangedash 2136}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.22075/ijnaa.2022.6049
+      \endverb
+      \verb{eprint}
+      \verb https://ijnaa.semnan.ac.ir/article_6049_ef1741ff5695e864d6ad5ab7bd3161b0.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ijnaa.semnan.ac.ir/article_6049.html
+      \endverb
+      \verb{url}
+      \verb https://ijnaa.semnan.ac.ir/article_6049.html
+      \endverb
+      \keyw{Audio fingerprinting,MFCC,Audio Classification,LSTM}
+    \endentry
+    \entry{12}{article}{}
+      \name{author}{7}{}{%
+        {{hash=6768e3a0e93b0f8394eeef9b638e78d6}{%
+           family={Huynh},
+           familyi={H\bibinitperiod},
+           given={Ngoc\bibnamedelima Dung},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=db9cb0b2d5c3d7361a0af815f51539aa}{%
+           family={Bouadjenek},
+           familyi={B\bibinitperiod},
+           given={Mohamed\bibnamedelima Reda},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=fd387fe52d796956a92df0795137307c}{%
+           family={Razzak},
+           familyi={R\bibinitperiod},
+           given={Imran},
+           giveni={I\bibinitperiod}}}%
+        {{hash=dd12628ece2c2bcccc0e876cbeafa9c9}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fb8a45e858ee816aa330f1ccac55bb50}{%
+           family={Arora},
+           familyi={A\bibinitperiod},
+           given={Chetan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=76829fb857738dbdd644ed7328d42da7}{%
+           family={Hassani},
+           familyi={H\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8da289bb46b6a95f52ced670c23af820}{%
+           family={Zaslavsky},
+           familyi={Z\bibinitperiod},
+           given={Arkady},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1327f93ca357d73494cdba0decbb6a73}
+      \strng{fullhash}{3ad046a2cfac5342b0a754b3e5ed0982}
+      \strng{bibnamehash}{1327f93ca357d73494cdba0decbb6a73}
+      \strng{authorbibnamehash}{1327f93ca357d73494cdba0decbb6a73}
+      \strng{authornamehash}{1327f93ca357d73494cdba0decbb6a73}
+      \strng{authorfullhash}{3ad046a2cfac5342b0a754b3e5ed0982}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2202.10594}
+      \field{title}{Adversarial Attacks on Speech Recognition Systems for Mission-Critical Applications: A Survey}
+      \field{year}{2022}
+    \endentry
+    \entry{14}{article}{}
+      \name{author}{7}{}{%
+        {{hash=bcb745afeee1e2bb2dd6a02419d92a27}{%
+           family={Petmezas},
+           familyi={P\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b9086bc01c23dd5cd86df207e88be750}{%
+           family={Cheimariotis},
+           familyi={C\bibinitperiod},
+           given={Grigorios-Aris},
+           giveni={G\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=2d99004b95ab3e4f1ecef11093bd06c2}{%
+           family={Stefanopoulos},
+           familyi={S\bibinitperiod},
+           given={Leandros},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fe1fbd4b80e61a919cce46b1c88391b7}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5a3c465834b43ebeb5978e48044fe93d}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={Rui\bibnamedelima Pedro},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f4ddc66037050e112ebae925938e1b70}{%
+           family={Katsaggelos},
+           familyi={K\bibinitperiod},
+           given={Aggelos\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=1df5b6fd0859a983098463bd4fd24d91}{%
+           family={Maglaveras},
+           familyi={M\bibinitperiod},
+           given={Nicos},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{709d997b5930687e8cc5eab22f0e7e95}
+      \strng{fullhash}{d039325fb3c09ca162606b01ff1e7afb}
+      \strng{bibnamehash}{709d997b5930687e8cc5eab22f0e7e95}
+      \strng{authorbibnamehash}{709d997b5930687e8cc5eab22f0e7e95}
+      \strng{authornamehash}{709d997b5930687e8cc5eab22f0e7e95}
+      \strng{authorfullhash}{d039325fb3c09ca162606b01ff1e7afb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{3}
+      \field{title}{Automated Lung Sound Classification Using a Hybrid CNN-LSTM Network and Focal Loss Function}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{1232}
+      \range{pages}{1}
+    \endentry
+    \entry{13}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9d6229fa9b4938799f513431355af85b}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=649892bc3e7c9c570cbb91cb84df3c86}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chao-Han\bibnamedelima Huck},
+           giveni={C\bibinithyphendelim H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=daec437b50b9f8311081b5f018781ff7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Pin-Yu},
+           giveni={P\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=614001b541841dc3bf7337903bd5e932}{%
+           family={Tejedor},
+           familyi={T\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3233bcf75720a0767bcc564d75c6659}
+      \strng{fullhash}{cb1342940dee5184eba07bb7c47b4e97}
+      \strng{bibnamehash}{cb1342940dee5184eba07bb7c47b4e97}
+      \strng{authorbibnamehash}{cb1342940dee5184eba07bb7c47b4e97}
+      \strng{authornamehash}{c3233bcf75720a0767bcc564d75c6659}
+      \strng{authorfullhash}{cb1342940dee5184eba07bb7c47b4e97}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2203.06031}
+      \field{title}{Exploiting Low-Rank Tensor-Train Deep Neural Networks Based on Riemannian Gradient Descent With Illustrations of Speech Processing}
+      \field{year}{2022}
+    \endentry
+    \entry{15}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9d6229fa9b4938799f513431355af85b}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=649892bc3e7c9c570cbb91cb84df3c86}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chao-Han\bibnamedelima Huck},
+           giveni={C\bibinithyphendelim H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=daec437b50b9f8311081b5f018781ff7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Pin-Yu},
+           giveni={P\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=614001b541841dc3bf7337903bd5e932}{%
+           family={Tejedor},
+           familyi={T\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3233bcf75720a0767bcc564d75c6659}
+      \strng{fullhash}{cb1342940dee5184eba07bb7c47b4e97}
+      \strng{bibnamehash}{cb1342940dee5184eba07bb7c47b4e97}
+      \strng{authorbibnamehash}{cb1342940dee5184eba07bb7c47b4e97}
+      \strng{authornamehash}{c3233bcf75720a0767bcc564d75c6659}
+      \strng{authorfullhash}{cb1342940dee5184eba07bb7c47b4e97}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2203.06031}
+      \field{title}{Exploiting Low-Rank Tensor-Train Deep Neural Networks Based on Riemannian Gradient Descent With Illustrations of Speech Processing}
+      \field{year}{2022}
+    \endentry
+    \entry{10}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cabfea95e938aa98959e1eee3ba9aa54}{%
+           family={Badgujar},
+           familyi={B\bibinitperiod},
+           given={Mayur},
+           giveni={M\bibinitperiod}}}%
+        {{hash=feb07fe55d96750417d6388a487ebed4}{%
+           family={Wagh},
+           familyi={W\bibinitperiod},
+           given={Anushka},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0cb66fea02c2fdf58e7ade49e9782418}{%
+           family={Chavan},
+           familyi={C\bibinitperiod},
+           given={Sharad},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2621da0487cb862267fe50d021187a5c}{%
+           family={Chumbhale},
+           familyi={C\bibinitperiod},
+           given={Priyanka},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b388e8cd7afa2df5d4b53b0c4f50f7cb}{%
+           family={Sonawane},
+           familyi={S\bibinitperiod},
+           given={RC},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5a0be4b90090c28913c94ccb44b6aed}
+      \strng{fullhash}{496b824755f6f53b510638db5a0bff7d}
+      \strng{bibnamehash}{496b824755f6f53b510638db5a0bff7d}
+      \strng{authorbibnamehash}{496b824755f6f53b510638db5a0bff7d}
+      \strng{authornamehash}{b5a0be4b90090c28913c94ccb44b6aed}
+      \strng{authorfullhash}{496b824755f6f53b510638db5a0bff7d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IOT BASED AUTOMATIC DOOR LOCK SYSTEM BY FACE AND VOICE RECOGNITION}
+    \endentry
+    \entry{11}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ef9ccd77fcc2cc70c19a5f4f4a2c1ea1}{%
+           family={Okafor},
+           familyi={O\bibinitperiod},
+           given={CS},
+           giveni={C\bibinitperiod}}}%
+        {{hash=825b1d0e4f629afd058e50a861000eef}{%
+           family={Nnebe},
+           familyi={N\bibinitperiod},
+           given={SU},
+           giveni={S\bibinitperiod}}}%
+        {{hash=43615835104660d80edb7dca7986dac7}{%
+           family={Alumona},
+           familyi={A\bibinitperiod},
+           given={TL},
+           giveni={T\bibinitperiod}}}%
+        {{hash=400d7ed4adccc254c6521914ad6ec608}{%
+           family={Onuzuluike},
+           familyi={O\bibinitperiod},
+           given={VC},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d6aa2686e34de2eb9a93cd9dcc354bbf}{%
+           family={Jideofor},
+           familyi={J\bibinitperiod},
+           given={UC},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cb5440e4202dd3d4713c79e3c082768}
+      \strng{fullhash}{3f189dcb1c613399fabd83008bfcae49}
+      \strng{bibnamehash}{3f189dcb1c613399fabd83008bfcae49}
+      \strng{authorbibnamehash}{3f189dcb1c613399fabd83008bfcae49}
+      \strng{authornamehash}{2cb5440e4202dd3d4713c79e3c082768}
+      \strng{authorfullhash}{3f189dcb1c613399fabd83008bfcae49}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Door Access Control Using RFID and Voice Recognition System}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
